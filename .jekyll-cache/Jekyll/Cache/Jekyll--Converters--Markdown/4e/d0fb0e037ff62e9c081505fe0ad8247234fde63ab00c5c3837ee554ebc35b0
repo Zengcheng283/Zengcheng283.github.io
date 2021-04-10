@@ -1,0 +1,6 @@
+I"T<p>&lt;?php
+  echo ‘Zengc’
+  fnuction test() {
+    echo ‘test’
+  }</p>
+:ET
