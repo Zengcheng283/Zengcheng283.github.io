@@ -1,26 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>实验报告</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <nav>
-    <a href="/">主页</a>
-    <a href="/about.html">关于</a>
-    <a href="/blog.html">实验内容</a>
-    <a href="/staff.html">员工</a>
-  </nav>
-    <h1>实验报告</h1>
-
-<p>
-  23 Mar 2021
-  
-  
-</p>
-
-<h1 id="web应用软件开发实训--第二次作业--开发一个静态网站">WEB应用软件开发实训 – 第二次作业 ― 开发一个静态网站</h1>
+I"<h1 id="web应用软件开发实训--第二次作业--开发一个静态网站">WEB应用软件开发实训 – 第二次作业 ― 开发一个静态网站</h1>
 
 <p><img src="../../../img/网址.png" alt="网址" /></p>
 
@@ -55,6 +33,4 @@
 <h1 id="四总结">四、总结</h1>
 
 <p>在制作过程中，我遇见了无法进行编译的情况，根据网上教程教导的方法，来一步步推进，最后成功将页面使用jekyll编译出来了。</p>
-
-  </body>
-</html>
+:ET
