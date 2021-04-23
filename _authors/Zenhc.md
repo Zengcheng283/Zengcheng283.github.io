@@ -1,5 +1,5 @@
 ---
-name: Zenhc
-position: Student
+name: 汤姆逊
+position: 员工
 ---
-Zenhc 是一个好的程序员
+汤姆逊 是一个好的程序员
